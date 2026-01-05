@@ -53,6 +53,33 @@ Notes:
 
 ---
 
+## Visualizations
+
+These animations demonstrate phase-resolved behaviors and branch structures in complex analysis. They illustrate how phase evolves continuously across branch cuts and how different branch choices affect the behavior of multi-valued functions.
+
+### Phase Drag
+<video src="PhaseDrag.mp4" controls title="Phase Drag"></video>
+
+### Phase Spine
+<video src="PhaseSpine.mp4" controls title="Phase Spine"></video>
+
+### Phase Split (4-way)
+<video src="PhaseSplit4.mp4" controls title="Phase Split 4"></video>
+
+### Phase Winding Without Force
+<video src="PhaseWindingWithoutForce.mp4" controls title="Phase Winding Without Force"></video>
+
+### Spinor Rotation: Why 360° Isn't Enough
+<video src="SpinorRotationWhy360IsntEnough.mp4" controls title="Spinor Rotation Why 360 Isn't Enough"></video>
+
+### Josephson Junction Phase Gate
+<video src="JosephsonJunctionPhaseGate.mp4" controls title="Josephson Junction Phase Gate"></video>
+
+### SQUID Geometry: Controlled Phase Closure
+<video src="SQUIDGeometryControlledPhaseClosure.mp4" controls title="SQUID Geometry Controlled Phase Closure"></video>
+
+---
+
 ## Install
 
 From source:
